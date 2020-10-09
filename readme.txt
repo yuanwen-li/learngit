@@ -1,3 +1,2 @@
 Creating a new branch is quick and simple.
 create dev branch...
-"this line is ..."
